@@ -1,0 +1,5 @@
+nome = input('Digite um nome: ').title()
+n = nome.split()
+t = len(n)
+print('primeiro nome: {}'.format(n[0]))
+print('segundo nome: {}'.format(n[t-1]))
