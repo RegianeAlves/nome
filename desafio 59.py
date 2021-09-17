@@ -26,7 +26,7 @@ while num != 5:
         num1 = float(input('Digite um número: '))
         num2 = float(input('Digite outro número: '))
     elif num == 5:
-        print('Tchau!')
+        print('Saindo do programa! Tchau')
 
 
 
