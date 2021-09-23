@@ -27,6 +27,8 @@ while num != 5:
         num2 = float(input('Digite outro número: '))
     elif num == 5:
         print('Saindo do programa! Tchau')
+    else:
+        print('Opção inválida, Tente novamente!')
 
 
 
