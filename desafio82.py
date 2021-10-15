@@ -24,3 +24,4 @@ for p in range(0, len(valores)):
 print(f'A lista completa é {valores}')
 print(f'A lista de pares é {pares}')
 print(f'A lista de ímpares é {impares}')
+
