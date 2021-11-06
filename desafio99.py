@@ -3,7 +3,7 @@ from time import sleep
 
 def maior(*num):
     cont = 0
-    print('Analizando os valores passados...')
+    print('Analisando os valores passados...')
     for valor in num:
         print(f'{valor}', end=' ')
         cont += 1
